@@ -1,5 +1,6 @@
 *.docx
 *.mp4
 *.pyc
+*.gif
 classes/
 tiles/
